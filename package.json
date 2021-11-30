@@ -1,0 +1,16 @@
+{
+  "name": "dcb_nodjs",
+  "version": "1.0.1",
+  "description": "node js tutorials packaging json",
+  "main": "staticHttppp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RajaniKanth Nodejs",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "debug": "^4.3.3",
+    "express": "^4.17.1"
+  }
+}
